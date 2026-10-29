@@ -1,0 +1,22 @@
+2026-10-21 10:00:28 | SUCCESS | Order Confirmation sent to 25bmiit050@gmail.com for Booking #BKG-6AD86E48E5A1C (Total: ₹12,000.00)
+2026-10-21 10:03:15 | SUCCESS | Order Confirmation sent to 25bmiit050@gmail.com for Booking #BKG-6AD86E48E5A1C (Total: Rs. 12,000.00)
+2026-10-21 10:06:35 | SUCCESS | Order Confirmation sent to 24bmiit020@gmail.com for Booking #BKG-6AD87285D2EA3 (Total: Rs. 4,800.00)
+2026-10-21 10:12:21 | SUCCESS | Order Confirmation sent to 24bmiit020@gmail.com (CC: pdp2512@gmail.com) for Booking #BKG-6AD87285D2EA3 (Total: Rs. 4,800.00)
+2026-10-21 10:15:12 | SUCCESS | Order Confirmation sent to 24bmiit020@gmail.com (CC: pdp2512@gmail.com) for Booking #BKG-6AD8748A3651D (Total: Rs. 500.00)
+2026-10-21 10:16:41 | SUCCESS | Order Confirmation sent to 24bmiit020@gmail.com (CC: pdp2512@gmail.com) for Booking #BKG-6AD8748A3651D (Total: Rs. 500.00)
+2026-10-21 10:17:34 | STATUS | Sent status 'Cancelled' to 24bmiit020@gmail.com for #BKG-6AD8748A3651D
+2026-10-21 10:17:48 | STATUS | Sent status 'Cancelled' to 24bmiit020@gmail.com for #BKG-6AD87285D2EA3
+2026-10-21 10:21:37 | SUCCESS | Order Confirmation sent ONLY to user: 24bmiit020@gmail.com for Booking #BKG-6AD87285D2EA3 (Total: Rs. 4,800.00)
+2026-10-21 10:23:18 | SUCCESS | Order Confirmation sent ONLY to user: 24bmiit020@gmail.com for Booking #BKG-6AD8767029C9C (Total: Rs. 7,700.00)
+2026-10-22 09:14:59 | SUCCESS | Order Confirmation sent ONLY to user: 24bmiit020@gmail.com for Booking #BKG-6AD9B7EC24485 (Total: Rs. 3,000.00)
+2026-10-22 09:15:38 | STATUS | Sent status 'Cancelled' ONLY to user 24bmiit020@gmail.com for #BKG-6AD9B7EC24485
+2026-10-22 09:15:45 | STATUS | Sent status 'Cancelled' ONLY to user 24bmiit020@gmail.com for #BKG-6AD8767029C9C
+2026-10-22 10:23:57 | SUCCESS | Order Confirmation sent ONLY to user: 24bmiit020@gmail.com for Booking #BKG-6AD9C8160A491 (Total: Rs. 4,800.00)
+2026-10-22 10:24:38 | STATUS | Sent status 'Cancelled' ONLY to user 24bmiit020@gmail.com for #BKG-6AD9C8160A491
+2026-10-22 19:32:33 | SUCCESS | Order Confirmation sent ONLY to user: 24bmiit014@gmail.com for Booking #BKG-6ADA1773B8C39 (Total: Rs. 4,000.00)
+2026-10-22 19:51:08 | SUCCESS | Order Confirmation sent ONLY to user: 24bmiit014@gmail.com for Booking #BKG-6ADA1BCED36CB (Total: Rs. 5,850.00)
+2026-10-22 19:53:23 | STATUS | Sent status 'Delivered' ONLY to user 24bmiit014@gmail.com for #BKG-6ADA1BCED36CB
+2026-10-22 19:53:56 | STATUS | Sent status 'Confirmed' ONLY to user 24bmiit014@gmail.com for #BKG-6ADA1BCED36CB
+2026-10-23 10:51:19 | SUCCESS | Order Confirmation sent ONLY to user: 24bmiit039@gmail.com for Booking #BKG-6ADAEEC7E3A1F (Total: Rs. 3,600.00)
+2026-10-23 13:01:48 | STATUS | Sent status 'Delivered' ONLY to user 24bmiit039@gmail.com for #BKG-6ADAEEC7E3A1F
+2026-10-23 13:13:07 | SUCCESS | Order Confirmation sent ONLY to user: sapan.naik@utu.ac.in for Booking #BKG-6ADB1003DF7BE (Total: Rs. 6,000.00)
